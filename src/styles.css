@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#cuadro {
+  height: 200px;
+  width: 200px;
+  background: red;
+}
